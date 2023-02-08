@@ -11,3 +11,9 @@
         margin-top: 2rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+   .maindash{
+    align-items: center;
+   }
+}
