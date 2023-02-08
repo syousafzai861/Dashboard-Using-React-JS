@@ -10,7 +10,6 @@ const MainDash = () => {
       <div className="maindash">
         <h1>DashBoard</h1>
         <Cards/>
-        
         <Table/>
       </div>
     )

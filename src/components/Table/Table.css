@@ -17,3 +17,10 @@
     padding: 8px;
     border-radius: 9px;
 }
+
+@media screen and (max-width: 1200px){
+     .Table{
+        width: 100%;
+        margin-top: 2rems;
+     }
+}

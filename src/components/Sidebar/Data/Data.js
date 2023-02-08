@@ -30,10 +30,6 @@ export const SidebarData = [
     heading: "Products",
   },
   {
-    icon: UilEstate,
-    heading: "Dashboard",
-  },
-  {
     icon: UilChart,
     heading: "Analytics",
   },
