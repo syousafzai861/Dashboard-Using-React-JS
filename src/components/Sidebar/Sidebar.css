@@ -79,6 +79,15 @@
     .logo{
       display: none;
     }
+    .bars{
+        display: block;
+        position: fixed;
+        top: 2rem;
+        z-index: 9;
+        background: #ffe0e0 ;
+        padding: 10px;
+        border-radius: 10px;
+      }
   }
 
   @media screen and (max-width: 768px){
