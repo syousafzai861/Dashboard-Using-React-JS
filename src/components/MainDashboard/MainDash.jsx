@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Cards from '../Cards/Cards'
+import Table from '../Table/Table'
 
 import './MainDash.css'
 
@@ -9,6 +10,8 @@ const MainDash = () => {
       <div className="maindash">
         <h1>DashBoard</h1>
         <Cards/>
+        
+        <Table/>
       </div>
     )
 }
